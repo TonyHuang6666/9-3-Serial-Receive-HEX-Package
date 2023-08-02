@@ -1,0 +1,43 @@
+# ninja log v5
+27	351	7126692533070265	CMakeFiles/Project.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/Github_insiders/Examples/9-3_Serial_Receive_HEX_Package/Hardware/LED.o	f7716b251fa5ddd0
+0	36	0	CMakeFiles/database	e7afd482d0f9b05e
+0	36	0	D:/OneDrive - email.szu.edu.cn/Codes/Github insiders/Examples/9-3 Serial Receive HEX Package/tmp/Project/Target_1/CMakeFiles/database	e7afd482d0f9b05e
+11	437	7126692534004378	CMakeFiles/Project.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/Github_insiders/Examples/9-3_Serial_Receive_HEX_Package/Hardware/OLED.o	4116577d8e16e01a
+2	131	7126781503364101	CMakeFiles/Project.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/Github_insiders/Examples/9-3_Serial_Receive_HEX_Package/Hardware/Key.o	553cfd698759d109
+39	494	7126692533619408	CMakeFiles/Project.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/Github_insiders/Examples/9-3_Serial_Receive_HEX_Package/Library/misc.o	85fc276c28b21795
+19	323	7126692532944756	CMakeFiles/Project.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/Github_insiders/Examples/9-3_Serial_Receive_HEX_Package/Hardware/ADC.o	3408ef22473befed
+5	259	7126721611001064	CMakeFiles/Project.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/Github_insiders/Examples/9-3_Serial_Receive_HEX_Package/Hardware/Serial.o	92555e4861fb1da0
+1682	2048	7126692550110221	CMakeFiles/Project.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/Github_insiders/Examples/9-3_Serial_Receive_HEX_Package/System/Delay.o	67615683f4de82e
+324	895	7126692538419504	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_can.o	3141169166d012b2
+55	563	7126692535255400	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_adc.o	d01d0cbdd76285be
+82	577	7126692535230210	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_bkp.o	1290dd6f2985d208
+263	672	7126692536446383	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_cec.o	1fe3cdbe26f4c993
+396	769	7126692536781658	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_crc.o	86f17ba46966725c
+352	782	7126692537604862	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_dac.o	ca2c9e4c67c70cd2
+769	1343	7126692543090240	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_i2c.o	3df0b172bf5818da
+495	862	7126692538374298	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_dma.o	6a33b8189e9880dd
+5	181	7126786851005278	CMakeFiles/Project.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/Github_insiders/Examples/9-3_Serial_Receive_HEX_Package/User/main.o	e029e975e1b8894
+564	885	7126692538610095	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_dbgmcu.o	bf191bff28d6183b
+578	950	7126692539275132	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_exti.o	99c07a32052b8352
+438	1075	7126692540366316	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_flash.o	f7e5f4f97165dfdf
+1372	2013	7126692549704638	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_usart.o	ea1393e8b58b171f
+782	1191	7126692541617811	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_iwdg.o	db5c0b261b885758
+673	1207	7126692541447214	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Start/startup_stm32f10x_md.o	fc4acb4512a88fc7
+863	1329	7126692543024923	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_gpio.o	b7514b86e48ada14
+895	1372	7126692543486549	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_rtc.o	9b53c2ea5a32548
+182	309	7126786852307593	D:/OneDrive - email.szu.edu.cn/Codes/Github insiders/Examples/9-3 Serial Receive HEX Package/out/Project/Target_1/Project.axf	61f17c116e77977e
+1207	2159	7126692551347128	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_tim.o	db96eee7628255f3
+1075	1722	7126692546585919	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_sdio.o	14a86bc47be92483
+885	1506	7126692544805804	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_fsmc.o	e927406468934c5c
+1343	1631	7126692546080933	CMakeFiles/Project.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/Github_insiders/Examples/9-3_Serial_Receive_HEX_Package/Start/core_cm3.o	295c305c95bac226
+950	1672	7126692546090923	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_rcc.o	bb9ec161dfdd6960
+1192	1682	7126692546252505	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_pwr.o	2f00409dd9d45035
+1330	1802	7126692547761070	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_spi.o	d4ac8334798190df
+1506	1938	7126692549047472	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Start/system_stm32f10x.o	f7501934d088e3f7
+1632	2012	7126692549398629	CMakeFiles/Project.dir/71ca556ab2a76501f88f78fd13863f4e/Examples/9-3_Serial_Receive_HEX_Package/Library/stm32f10x_wwdg.o	d43ceb16e4c836a6
+1722	2082	7126692550561572	CMakeFiles/Project.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/Github_insiders/Examples/9-3_Serial_Receive_HEX_Package/System/DMA.o	ea69026fe8fb4d21
+1803	2142	7126692551177232	CMakeFiles/Project.dir/1b1ce569632f170942f38e1cbfe1967d/Github_insiders/Examples/9-3_Serial_Receive_HEX_Package/User/stm32f10x_it.o	7f9963b0a7bec882
+14	168	7126789798753558	CMakeFiles/Project.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/Github_insiders/Examples/9-3_Serial_Receive_HEX_Package/User/main.o	e029e975e1b8894
+8	169	7126789798753558	CMakeFiles/Project.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/Github_insiders/Examples/9-3_Serial_Receive_HEX_Package/Hardware/Key.o	553cfd698759d109
+3	212	7126789799198536	CMakeFiles/Project.dir/D_/OneDrive_-_email.szu.edu.cn/Codes/Github_insiders/Examples/9-3_Serial_Receive_HEX_Package/Hardware/OLED.o	4116577d8e16e01a
+212	327	7126789800387222	D:/OneDrive - email.szu.edu.cn/Codes/Github insiders/Examples/9-3 Serial Receive HEX Package/out/Project/Target_1/Project.axf	61f17c116e77977e
