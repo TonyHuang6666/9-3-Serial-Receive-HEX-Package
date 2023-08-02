@@ -29,7 +29,6 @@ int main(void)
 			OLED_ShowHexNum(2, 4, Serial_TxPackage[1], 2);
 			OLED_ShowHexNum(2, 7, Serial_TxPackage[2], 2);
 			OLED_ShowHexNum(2, 10, Serial_TxPackage[3], 2);
-			Delay_s(1);
 		}
 		if(Serial_GetRxFlag()==1)
 		{
